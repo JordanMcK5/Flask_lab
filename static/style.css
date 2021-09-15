@@ -1,0 +1,28 @@
+body {
+    background-color: dodgerblue;
+    font-family: courier;
+    color: white;
+    text-align: center;
+}
+
+body > h1 {
+background-color: chocolate;
+padding: 20px;
+height: 50px;
+text-align: center;
+
+}
+
+body > nav > ul > li > a {
+    text-decoration: none;
+    color: white;
+}
+
+body > nav > ul{
+    list-style: none;
+}
+
+nav > ul > li > img {
+height: 250px;
+width: 400px
+}
